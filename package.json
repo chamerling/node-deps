@@ -40,6 +40,8 @@
     "pkginfo": "0.2.3",
     "nodemailer": "0.3.28",
     "mongodb": "1.1.8",
-    "socket.io": "0.9.10"
+    "socket.io": "0.9.10",
+    "restify" : "1.4.4",
+    "mongoose" : "3.3.1"
   }
 }
